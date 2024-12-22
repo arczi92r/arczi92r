@@ -15,3 +15,47 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Kubernetes </br>
 🌱 I’m currently learning Kubernetes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
